@@ -17,3 +17,43 @@ During the internship, I had the opportunity to work across the full web develop
 ## About This Repository
 
 This repository serves as a collection of key components and concepts I worked on during my internship. While specific project details may be generalized or redacted for confidentiality, the code reflects practical implementations of full stack development tasks within a collaborative, production-oriented environment.
+
+# Project Setup Instructions
+
+## Importing Files
+
+1. Import all the files listed below into the directory `C:\xampp\htdocs\hr`.
+
+## Accessing Working Files
+
+- For PHP files, you can access them via a web browser by entering the corresponding URL. For example, to access the main index file, use: http://localhost/hr/index.php
+
+## Accessing Files in Subdirectories
+
+- If the PHP files are located within subdirectories (e.g., `inc`, `assets`, `api`, etc.), ensure to include the folder path in the URL. For example, to access the `users.php` file located in the `api` folder, use: http://localhost/hr/api/users.php
+
+## List of Files to Import
+
+- `users`
+- `sidebar`
+- `logout`
+- `login`
+- `location`
+- `index`
+- `header`
+- `footer`
+- `desks`
+- `designation`
+- `departments`
+- `dashboard`
+- `connect`
+- `channels`
+- `assets`
+- `assetassignment`
+- `add_users`
+- `add_designation`
+- `add_departments`
+- `add_channel`
+- `add_assets`
+
+By following these steps, you will be able to set up and access the project files successfully.
