@@ -35,6 +35,7 @@ This repository serves as a collection of key components and concepts I worked o
 ## Relative Main Files
 
 | `users`           | `sidebar`         | `logout`           |
+|-------------------|-------------------|--------------------|
 | `login`           | `location`        | `index`            |
 | `header`          | `footer`          | `desks`            |
 | `designation`     | `departments`     | `dashboard`        |
