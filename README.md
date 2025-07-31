@@ -71,6 +71,4 @@ Before you begin, ensure that you have XAMPP installed on your system. Follow th
 3. **Enable Services**: 
    - In the XAMPP Control Panel, ensure that both **Apache** and **MySQL** services are started. You can do this by clicking the "Start" button next to each service.
 
-   ![XAMPP Control Panel](https://www.apachefriends.org/images/xampp-control-panel.png)  <!-- Example image link, replace with actual if needed -->
-
 By ensuring that XAMPP is installed and both Apache and MySQL are running, you will be able to access your project files without any issues.
