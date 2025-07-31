@@ -22,7 +22,7 @@ This repository serves as a collection of key components and concepts I worked o
 
 ## Importing Files
 
-1. Import all the files listed below into the directory `C:\xampp\htdocs\hr`.
+1. Import all the files listed above (from this repository) into the directory `C:\xampp\htdocs\hr`.
 
 ## Accessing Working Files
 
@@ -57,3 +57,20 @@ This repository serves as a collection of key components and concepts I worked o
 - `add_assets`
 
 By following these steps, you will be able to set up and access the project files successfully.
+
+## Prerequisites
+
+Before you begin, ensure that you have XAMPP installed on your system. Follow these steps to set up the necessary services:
+
+1. **Install XAMPP**: 
+   - Download and install XAMPP from the [official website](https://www.apachefriends.org/index.html).
+
+2. **Start XAMPP Control Panel**: 
+   - Open the XAMPP Control Panel.
+
+3. **Enable Services**: 
+   - In the XAMPP Control Panel, ensure that both **Apache** and **MySQL** services are started. You can do this by clicking the "Start" button next to each service.
+
+   ![XAMPP Control Panel](https://www.apachefriends.org/images/xampp-control-panel.png)  <!-- Example image link, replace with actual if needed -->
+
+By ensuring that XAMPP is installed and both Apache and MySQL are running, you will be able to access your project files without any issues.
