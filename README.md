@@ -6,7 +6,7 @@ This repository contains selected code samples and projects developed during my 
 
 During the internship, I had the opportunity to work across the full web development stack. My responsibilities included managing databases, writing backend logic, and developing dynamic and responsive frontend interfaces. I also integrated APIs and worked with JSON to enable smooth data communication between different layers of the application. These tasks provided me with practical experience in building real-world applications and a deeper understanding of how front-end and back-end systems interact in production environments.
 
-## 🔧 Technologies Used
+## Technologies Used
 
 | Area                 | Technologies                          |
 |----------------------|----------------------------------------|
@@ -17,7 +17,3 @@ During the internship, I had the opportunity to work across the full web develop
 ## About This Repository
 
 This repository serves as a collection of key components and concepts I worked on during my internship. While specific project details may be generalized or redacted for confidentiality, the code reflects practical implementations of full stack development tasks within a collaborative, production-oriented environment.
-
----
-
-> ⚠️ **Note:** Some parts of the code have been modified or excluded to respect organizational policies and data sensitivity.
