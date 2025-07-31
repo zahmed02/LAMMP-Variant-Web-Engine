@@ -34,13 +34,13 @@ This repository serves as a collection of key components and concepts I worked o
 
 ## Relative Main Files
 
- |`users` |`sidebar` | `logout` |
-| `login` | `location`| `index` |
-| `header`| `footer`| `desks` |
-| `designation`| `departments`| `dashboard` |
-| `connect` | `channels` | `assets`|
-| `assetassignment`| `add_users` | `add_designation` |
-| `add_departments` | `add_channel`| `add_assets` |
+| `users`           | `sidebar`         | `logout`           |
+| `login`           | `location`        | `index`            |
+| `header`          | `footer`          | `desks`            |
+| `designation`     | `departments`     | `dashboard`        |
+| `connect`         | `channels`        | `assets`           |
+| `assetassignment` | `add_users`       | `add_designation`  |
+| `add_departments` | `add_channel`     | `add_assets`       |
 
 By following these steps, you will be able to set up and access the project files successfully.
 
