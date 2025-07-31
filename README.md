@@ -32,16 +32,16 @@ This repository serves as a collection of key components and concepts I worked o
 
 - If the PHP files are located within subdirectories (e.g., `inc`, `assets`, `api`, etc.), ensure to include the folder path in the URL. For example, to access the `users.php` file located in the `api` folder, use: http://localhost/hr/api/users.php
 
-## Relative Main Files
+## Main Files (PHP)
 
-| users           | sidebar         | logout           |
-|-------------------|-------------------|--------------------|
+| users           | sidebar        | logout          |
+|-----------------|----------------|-----------------|
 | login           | location       | index           |
-| header          | footer         | desks            |
-| designation     | departments     | dashboard        |
-| connect         | channels        | assets           |
-| assetassignment | add_users       | add_designation  |
-| add_departments | add_channel     | add_assets       |
+| header          | footer         | desks           |
+| designation     | departments    | dashboard       |
+| connect         | channels       | assets          |
+| assetassignment | add_users      | add_designation |
+| add_departments | add_channel    | add_assets      |
 
 By following these steps, you will be able to set up and access the project files successfully.
 
